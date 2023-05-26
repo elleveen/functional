@@ -1,0 +1,16 @@
+{
+    "name": "elleveen/functional",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elleveen\\Functional\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elleveen"
+        }
+    ],
+    "require": {}
+}
